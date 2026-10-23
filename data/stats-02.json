@@ -1,0 +1,18 @@
+{
+ "detail_ok": 2000,
+ "detail_gone": 0,
+ "detail_err": 0,
+ "wf_with_creations": 178,
+ "creation_records": 703,
+ "creation_overflow_wf": 0,
+ "shard": 2,
+ "of": 4,
+ "catalog_rows": 2000,
+ "resumed_from": 0,
+ "walked_this_run": 2000,
+ "elapsed_min": 12.1,
+ "requests": 4001,
+ "transport_errors": 0,
+ "note": "counts are DELTA for this run when resumed (full state is the jsonl)",
+ "generated": "2026-10-23T03:01:14Z"
+}
